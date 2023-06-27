@@ -1,0 +1,21 @@
+{
+  "name": "projeto-spa-universe",
+  "version": "1.0.0",
+  "description": "projeto-spa-universe",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JorgeRafael077/Projeto-SPA-Universe-master.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
